@@ -36,17 +36,17 @@
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
-  "homepage": "https://github.com/LXGIC-Studios/ai-backup-script#readme",
+  "homepage": "https://github.com/lxgicstudios/ai-backup-script#readme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/LXGIC-Studios/ai-backup-script"
+    "url": "git+https://github.com/lxgicstudios/ai-backup-script.git"
   },
   "bugs": {
-    "url": "https://github.com/LXGIC-Studios/ai-backup-script/issues"
+    "url": "https://github.com/lxgicstudios/ai-backup-script/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/LXGIC-Studios"
+    "url": "https://github.com/sponsors/lxgicstudios"
   },
   "engines": {
     "node": ">=18.0.0"
