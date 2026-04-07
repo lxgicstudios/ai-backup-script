@@ -1,5 +1,5 @@
 {
-  "name": "ai-backup-script",
+  "name": "@lxgicstudios/ai-backup-script",
   "version": "1.0.0",
   "description": "AI-powered backup script generator - create intelligent rsync/tar backup scripts with GPT",
   "main": "dist/index.js",
