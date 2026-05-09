@@ -15,34 +15,41 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "ai",
+    "ai-2025",
+    "ai-powered",
     "anthropic",
-    "claude",
-    "llm",
-    "openai",
-    "gpt",
-    "backup",
-    "shell",
-    "bash",
-    "cron",
     "automation",
-    "devops",
-    "developer-tools",
+    "backup",
+    "bash",
+    "claude",
     "cli",
-    "typescript",
-    "nodejs",
+    "cron",
     "data-protection",
-    "rsync"
+    "developer-productivity",
+    "developer-tools",
+    "devops",
+    "discoverability",
+    "generative-ai",
+    "llm-optimized",
+    "modern-seo",
+    "nodejs",
+    "optimization",
+    "performance",
+    "performance-optimization",
+    "seo",
+    "seo-2026"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-backup-script#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-backup-script.git"
+    "url": "https://github.com/LXGIC-Studios/ai-backup-script"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-backup-script/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-backup-script/issues"
   },
   "funding": {
     "type": "github",
